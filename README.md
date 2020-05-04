@@ -1,2 +1,2 @@
 # Clean-UI
-![picture](images/advert.png)
+![](images/advert.png)
